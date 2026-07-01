@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0291/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀世音菩薩如意摩尼輪陀羅尼念誦法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1084.xml
+    old_id: T20n1084
+hash: sha256:20bacf356eb1f839c6724b66d86dd70b3b5efcf331a72eee13512659479217e5

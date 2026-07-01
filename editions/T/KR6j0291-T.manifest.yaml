@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR6j0291/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0291/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀世音菩薩如意摩尼輪陀羅尼念誦法
+  identifiers:
+    krp: KR6j0291
+    cbeta: T20n1084
+    cbeta_old_id: T20n1084
+    authorityid: CA0004180
+    json_key: T1084
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1084.xml
+    old_id: T20n1084
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0291_000-T.yaml, hash: 'sha256:20bacf356eb1f839c6724b66d86dd70b3b5efcf331a72eee13512659479217e5'}
+  - {seq: 1, filename: KR6j0291_001-T.yaml, hash: 'sha256:e076d34b53cd8a78e786bbfa37e8c28567877582ce449b26707faf038dea5cf1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0291_000-T.markers.yaml, hash: 'sha256:c160920ad7c595f5821bb8f37768b3d27e7576071765908fcdf38e3cbeae4939'}
+  - {seq: 1, role: markers, filename: assets/KR6j0291_001-T.markers.yaml, hash: 'sha256:430d6341027d0215210139fd495d910cdddf7bc55891fef6077ac28a652a298c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0291_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1663
+  label: '觀世音菩薩如意摩尼輪陀羅尼
+
+    念誦法'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0291_T_001-mulu-1
+    span:
+    - body
+    - 824
+    - 824
+  label: 毘俱胝地結法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0291_T_001-mulu-2
+    span:
+    - body
+    - 1328
+    - 1328
+  label: 念誦儀軌
+  type: mulu
+  level: 1
+hash: sha256:83b12d9e093e71df0defdecd750361f3e9e90d5ff54471d4d23287a9c02c55b2
