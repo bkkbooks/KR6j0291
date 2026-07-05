@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0291_000.yaml, hash: 'sha256:20bacf356eb1f839c6724b66d86dd70b3b5efcf331a72eee13512659479217e5'}
-  - {seq: 1, filename: KR6j0291_001.yaml, hash: 'sha256:619fa94893ee88c93840555d9caf58cd8ae632d0411d4d66e4028a5e8c0ba709'}
+  - {seq: 1, filename: KR6j0291_001.yaml, hash: 'sha256:e076d34b53cd8a78e786bbfa37e8c28567877582ce449b26707faf038dea5cf1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0291_001.markers.yaml, hash: 'sha256:93a766425265e3f91ba077f75028a5352ce590828c081391ed066153d039c51e'}
+  - {seq: 0, role: markers, filename: assets/KR6j0291_000.markers.yaml, hash: 'sha256:eca9a8a5178f3a9a3b1bd13040bec5c8a0c87ef2b400d94958f0784812d4e2bc'}
+  - {seq: 1, role: markers, filename: assets/KR6j0291_001.markers.yaml, hash: 'sha256:66dfe1a4c058d2421f8fe11a6d7022766204c05e6876d3f2ebf426aa5109249b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -58,7 +59,4 @@ table_of_contents:
   label: 念誦儀軌
   type: mulu
   level: 1
-hash: sha256:6ae25c08e37bed910957aa41374f0b060bd806b63d8ac5d19b62e6e365bb162c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:70c1c9fe9d89f0b53d979e31576565b3809b804bde68538d736c8dba352e12b3
