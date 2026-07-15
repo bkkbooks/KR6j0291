@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0291/v1
 canonical_location: https://kanripo.org/bkk/KR6j0291/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀世音菩薩如意摩尼輪陀羅尼念誦法
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0291_000.yaml, hash: 'sha256:20bacf356eb1f839c6724b66d86dd70b3b5efcf331a72eee13512659479217e5'}
-  - {seq: 1, filename: KR6j0291_001.yaml, hash: 'sha256:e076d34b53cd8a78e786bbfa37e8c28567877582ce449b26707faf038dea5cf1'}
+  - {seq: 1, filename: KR6j0291_001.yaml, hash: 'sha256:504c352fc23302be3b152558e28ef5d657d053957a9a306874753c1dfe94a535'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0291_000.markers.yaml, hash: 'sha256:eca9a8a5178f3a9a3b1bd13040bec5c8a0c87ef2b400d94958f0784812d4e2bc'}
-  - {seq: 1, role: markers, filename: assets/KR6j0291_001.markers.yaml, hash: 'sha256:66dfe1a4c058d2421f8fe11a6d7022766204c05e6876d3f2ebf426aa5109249b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0291_001.markers.yaml, hash: 'sha256:db226c94833b476172a76aff4e2697aabf5af07fef88f54fa97874346de657d0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -59,4 +59,7 @@ table_of_contents:
   label: 念誦儀軌
   type: mulu
   level: 1
-hash: sha256:70c1c9fe9d89f0b53d979e31576565b3809b804bde68538d736c8dba352e12b3
+hash: sha256:8092889579f6d660779b0b73bedda64d254accfc9dc1f6803b2d8b73531ffa52
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
